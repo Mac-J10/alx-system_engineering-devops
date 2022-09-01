@@ -1,2 +1,2 @@
 #!/bin/bash
-chow betty:vincent staff
+chown betty:vincent staff.txt
