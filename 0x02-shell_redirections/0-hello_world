@@ -1,2 +1,1 @@
-#!/bin/bash
-Hello, World
+#!/bin/bash quote> echo Hello, World
