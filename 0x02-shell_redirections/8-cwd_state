@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -la > "ls_cwd_content" >> 8-cwd_state
-echo ls -la -la
-ls -la > "ls_cwd_content"
+echo ls -la
